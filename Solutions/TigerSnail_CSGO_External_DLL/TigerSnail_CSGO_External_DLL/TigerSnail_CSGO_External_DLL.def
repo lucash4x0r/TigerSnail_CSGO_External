@@ -1,0 +1,3 @@
+LIBRARY TigerSnail_CSGO_External_DLL
+EXPORTS
+	DllMain @ 1
